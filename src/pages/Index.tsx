@@ -31,7 +31,7 @@ const Index = () => {
             <img 
               src="https://cdn.poehali.dev/files/f858dd3e-3a4f-4634-8741-961982f5decc.png" 
               alt="Артём Щербинин"
-              className="w-32 h-32 rounded-full mx-auto mb-6 object-cover border-4 border-primary/20"
+              className="w-46 h-46 rounded-full mx-auto mb-6 border-4 border-primary/30 object-cover"
             />
           </div>
           <h2 className="text-5xl md:text-6xl font-montserrat font-bold text-foreground mb-6">
@@ -120,7 +120,7 @@ const Index = () => {
                 </div>
                 <div className="flex items-start space-x-3">
                   <Icon name="CheckCircle" size={16} className="text-primary mt-1" />
-                  <span className="text-sm">Декомпозиция выручки на рычаги роста (20–20–20–20)</span>
+                  <span className="text-sm">Декомпозиция выручки</span>
                 </div>
                 <div className="flex items-start space-x-3">
                   <Icon name="CheckCircle" size={16} className="text-primary mt-1" />
@@ -148,7 +148,7 @@ const Index = () => {
                 </div>
                 <div className="flex items-start space-x-3">
                   <Icon name="CheckCircle" size={16} className="text-accent mt-1" />
-                  <span className="text-sm">Применение метода прогрессивного джипега (Артемий Лебедев)</span>
+                  <span className="text-sm">Применение метода "прогрессивного джипега" (© Артемий Лебедев)</span>
                 </div>
                 <div className="flex items-start space-x-3">
                   <Icon name="CheckCircle" size={16} className="text-accent mt-1" />
