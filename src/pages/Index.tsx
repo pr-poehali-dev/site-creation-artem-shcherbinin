@@ -109,7 +109,7 @@ const Index = () => {
               <CardContent className="space-y-3">
                 <div className="flex items-start space-x-3">
                   <Icon name="CheckCircle" size={16} className="text-primary mt-1" />
-                  <span className="text-sm">Анализ прибыли по Формуле прибыли (Paper Planes)</span>
+                  <span className="text-sm">Анализ прибыли и построение Формул</span>
                 </div>
                 <div className="flex items-start space-x-3">
                   <Icon name="CheckCircle" size={16} className="text-primary mt-1" />
