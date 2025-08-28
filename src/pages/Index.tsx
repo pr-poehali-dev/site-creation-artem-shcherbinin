@@ -31,7 +31,7 @@ const Index = () => {
             <img 
               src="https://cdn.poehali.dev/files/f858dd3e-3a4f-4634-8741-961982f5decc.png" 
               alt="Артём Щербинин"
-              className="w-34 h-34 rounded-full mx-auto mb-6 border-4 border-primary/20 object-cover"
+              className="w-33 h-33 mx-auto mb-6 border-4 border-primary/26 object-cover rounded-full"
             />
           </div>
           <h2 className="text-5xl md:text-6xl font-montserrat font-bold text-foreground mb-6">
