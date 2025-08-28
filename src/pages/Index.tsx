@@ -27,6 +27,13 @@ const Index = () => {
       {/* Hero Section */}
       <section className="pt-20 pb-16 px-6">
         <div className="container mx-auto text-center max-w-4xl">
+          <div className="mb-8">
+            <img 
+              src="https://cdn.poehali.dev/files/f858dd3e-3a4f-4634-8741-961982f5decc.png" 
+              alt="Артём Щербинин"
+              className="w-32 h-32 rounded-full mx-auto mb-6 object-cover border-4 border-primary/20"
+            />
+          </div>
           <h2 className="text-5xl md:text-6xl font-montserrat font-bold text-foreground mb-6">
             Артём Щербинин
           </h2>
