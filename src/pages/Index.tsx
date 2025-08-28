@@ -29,7 +29,7 @@ const Index = () => {
         <div className="container mx-auto text-center max-w-4xl">
           <div className="mb-8">
             <img 
-              src="https://cdn.poehali.dev/files/f858dd3e-3a4f-4634-8741-961982f5decc.png" 
+              src="https://cdn.poehali.dev/files/849d5466-c882-463e-8d3a-2370d643dd19.png" 
               alt="Артём Щербинин"
               className="w-33 h-33 mx-auto mb-6 border-4 border-primary/26 object-cover rounded-full"
             />
